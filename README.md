@@ -1,22 +1,26 @@
 # Bridgetek-Videos
 Showcase the Videos done by Bridgetek Team
-</br>
-</br>
-Bridgetek | Innovation Through Smart Display Design with Bridgetek TFT Display Panels
-</br>
-https://youtu.be/Ahmbea41rm8
-</br>
-</br>
-Bridgetek | Bridging EVE With Modbus CO2 Sensor
-</br>
-https://youtu.be/EY6aoAZpgcE
-</br>
-</br>
-Bridgetek | Bridging EVE With Modbus Products
-</br>
-https://youtu.be/UrQw-v8mVLY
-</br>
-</br>
-Bridgetek | Learn on EVE Emulator
-</br>
-https://youtu.be/3cwLBNYeJJY
+
+## Bridgetek | Innovation Through Smart Display Design with Bridgetek TFT Display Panels
+![thumbnail1](/images/Bridgetek%20-%20Innovation%20Through%20Smart%20Display%20Design%20with%20Bridgetek%20TFT%20Display%20Panels.png)
+
+**YouTube Link:** [Bridgetek | Innovation Through Smart Display Design with Bridgetek TFT Display Panels](https://youtu.be/Ahmbea41rm8)
+
+
+## Bridgetek | Bridging EVE With Modbus CO2 Sensor
+
+![thumbnail2](/images/Bridging%20EVE%20With%20Modbus%20CO2%20Sensor.png)
+
+**YouTube Link:**  [Bridgetek | Bridging EVE With Modbus CO2 Sensor](https://youtu.be/EY6aoAZpgcE)
+
+## Bridgetek | Bridging EVE With Modbus Product
+
+![thumbnail3](/images/Learn%20on%20EVE%20Emulator.png)
+
+**YouTube Link:** [Bridgetek | Bridging EVE With Modbus Products](https://youtu.be/UrQw-v8mVLY)
+
+## Bridgetek | Learn on EVE Emulator
+
+![thumbnail4](/images/Learn%20on%20EVE%20Emulator.png)
+
+**YouTube Link:** [Bridgetek | Learn on EVE Emulator](https://youtu.be/3cwLBNYeJJY)
