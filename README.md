@@ -12,6 +12,7 @@ Showcase the Videos done by Bridgetek Team
 ## Bridgetek | Bridging EVE With Modbus CO2 Sensor
 
 ![thumbnail2](/images/Bridging%20EVE%20With%20Modbus%20CO2%20Sensor.png)
+<img src="/images/Bridging%20EVE%20With%20Modbus%20CO2%20Sensor.png" width="300" alt="thumbnail2">
 
 **YouTube Link:**  [Bridgetek | Bridging EVE With Modbus CO2 Sensor](https://youtu.be/EY6aoAZpgcE)
 
