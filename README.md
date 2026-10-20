@@ -1,7 +1,7 @@
 # Bridgetek-Videos
 Showcase the Videos done by Bridgetek Team
 
-**YouTube Link:** [Bridgetek | Innovation Through Smart Display Design with Bridgetek TFT Display Panels](https://youtu.be/Ahmbea41rm8)
+[Bridgetek | Innovation Through Smart Display Design with Bridgetek TFT Display Panels](https://youtu.be/Ahmbea41rm8)
 <img src="/images/Bridgetek%20-%20Innovation%20Through%20Smart%20Display%20Design%20with%20Bridgetek%20TFT%20Display%20Panels.png" width="300" alt="thumbnail1">
 
 
