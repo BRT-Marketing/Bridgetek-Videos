@@ -11,7 +11,7 @@ Showcase the Videos done by Bridgetek Team
 </a>
 
 <br>
-<b>Innovation Through Smart Display Design with Bridgetek TFT Display Panels</b>
+<b>Innovation Thru Smart Display Design with Bridgetek TFT Display Panels</b>
 
 </td>
 
