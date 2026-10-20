@@ -11,7 +11,7 @@ Showcase the Videos done by Bridgetek Team
 
 [Bridgetek | Bridging EVE With Modbus Products](https://youtu.be/UrQw-v8mVLY)
 </br>
-<img src="/images/Learn%20on%20EVE%20Emulator.png" width="300" alt="thumbnail3">
+<img src="/images/Bridging%20EVE%20With%20Modbus%20Products.png" width="300" alt="thumbnail3">
 
 [Bridgetek | Learn on EVE Emulator](https://youtu.be/3cwLBNYeJJY)
 </br>
