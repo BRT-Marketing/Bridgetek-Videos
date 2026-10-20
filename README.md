@@ -67,7 +67,7 @@ Showcase the Videos done by Bridgetek Team
 </a>
 
 <br>
-<b>EExternal Sensor Integration with Bridgetek IDM2040-43A</b>
+<b>External Sensor Integration with Bridgetek IDM2040-43A</b>
 
 </td>
 
