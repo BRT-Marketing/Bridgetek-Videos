@@ -60,7 +60,16 @@ Showcase the Videos done by Bridgetek Team
 <b>Elevate your HMI on Arduino with Bridgetek’s EVE libraries</b>
 
 </td>
-<td></td>
+<td align="center">
+
+<a href="https://youtu.be/h4WELE3ZRzc" target="_blank">
+<img src="/images/Elevate your HMI on Arduino with Bridgetek’s EVE libraries.png" width="300" alt="thumbnail4">
+</a>
+
+<br>
+<b>EExternal Sensor Integration with Bridgetek IDM2040-43A</b>
+
+</td>
 
 </tr>
 </table>
