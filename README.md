@@ -16,6 +16,3 @@ Showcase the Videos done by Bridgetek Team
 [Bridgetek | Learn on EVE Emulator](https://youtu.be/3cwLBNYeJJY)
 </br>
 <img src="/images/Learn%20on%20EVE%20Emulator.png" width="300" alt="thumbnail4">
-
-
-**YouTube Link:** 
