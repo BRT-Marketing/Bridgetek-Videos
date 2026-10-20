@@ -50,7 +50,16 @@ Showcase the Videos done by Bridgetek Team
 
 </td>
 
-<td></td>
+<td align="center">
+
+<a href="https://youtu.be/6i0mrgL0By0" target="_blank">
+<img src="/images/Learn%20on%20EVE%20Emulator.png" width="300" alt="thumbnail4">
+</a>
+
+<br>
+<b>Elevate your HMI on Arduino with Bridgetek’s EVE libraries</b>
+
+</td>
 <td></td>
 
 </tr>
